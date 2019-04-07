@@ -1,0 +1,11 @@
+c:\users\arturek\documents\visual studio 2010\Projects\AZ\Projekt_AZ\Projekt_AZ\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\arturek\documents\visual studio 2010\Projects\AZ\Projekt_AZ\Projekt_AZ\bin\Debug\Projekt_AZ.exe
+c:\users\arturek\documents\visual studio 2010\Projects\AZ\Projekt_AZ\Projekt_AZ\bin\Debug\Projekt_AZ.pdb
+c:\users\arturek\documents\visual studio 2010\Projects\AZ\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.exe
+c:\users\arturek\documents\visual studio 2010\Projects\AZ\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.pdb
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\bin\Debug\Projekt_AZ.exe
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\bin\Debug\Projekt_AZ.pdb
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.csprojAssemblyReference.cache
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.csproj.CoreCompileInputs.cache
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.exe
+D:\Studia\SGGW\Projekt_AZ\Projekt_AZ\obj\x86\Debug\Projekt_AZ.pdb
